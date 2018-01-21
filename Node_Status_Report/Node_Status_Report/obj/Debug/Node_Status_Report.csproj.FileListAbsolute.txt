@@ -1,0 +1,7 @@
+C:\Users\Sam Hutchinson\source\repos\Node_Status_Report\Node_Status_Report\bin\Debug\Node_Status_Report.exe.config
+C:\Users\Sam Hutchinson\source\repos\Node_Status_Report\Node_Status_Report\bin\Debug\Node_Status_Report.exe
+C:\Users\Sam Hutchinson\source\repos\Node_Status_Report\Node_Status_Report\bin\Debug\Node_Status_Report.pdb
+C:\Users\Sam Hutchinson\source\repos\Node_Status_Report\Node_Status_Report\obj\Debug\Node_Status_Report.csproj.CoreCompileInputs.cache
+C:\Users\Sam Hutchinson\source\repos\Node_Status_Report\Node_Status_Report\obj\Debug\Node_Status_Report.exe
+C:\Users\Sam Hutchinson\source\repos\Node_Status_Report\Node_Status_Report\obj\Debug\Node_Status_Report.pdb
+C:\Users\Sam Hutchinson\source\repos\Node_Status_Report\Node_Status_Report\obj\Debug\Node_Status_Report.csprojResolveAssemblyReference.cache
